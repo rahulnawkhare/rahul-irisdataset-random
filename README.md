@@ -1,0 +1,30 @@
+# Iris Flower Prediction System
+
+## Overview
+
+This project predicts Iris flower species using Machine Learning.
+
+## Technologies Used
+
+- Python
+- Scikit-Learn
+- Flask
+- Bootstrap
+- Docker
+- GitHub
+
+## Features
+
+- Flower Prediction
+- Confidence Score
+- Flower Image Display
+- Docker Deployment
+
+## Run Locally
+
+python train.py
+
+python app.py
+
+Open:
+http://127.0.0.1:5000
